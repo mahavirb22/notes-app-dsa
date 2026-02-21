@@ -139,10 +139,6 @@ Vercel automatically handles:
 - Edge Runtime support
 - Automatic deployments
 
-## 📝 License
-
-MIT
-
 ## 🙏 Acknowledgments
 
 Built with modern web technologies to provide the best developer experience for DSA learners.
