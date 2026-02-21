@@ -123,22 +123,6 @@ All API routes use Edge Runtime for faster cold starts and better performance.
 
 Notes are soft-deleted with a 3-second undo window before permanent deletion.
 
-## 🌐 Deployment
-
-Deploy to Vercel with one click:
-
-1. Push code to GitHub
-2. Import repository in Vercel
-3. Add environment variables
-4. Deploy!
-
-Vercel automatically handles:
-
-- Build optimization
-- Prisma Client generation
-- Edge Runtime support
-- Automatic deployments
-
 ## 🙏 Acknowledgments
 
 Built with modern web technologies to provide the best developer experience for DSA learners.
